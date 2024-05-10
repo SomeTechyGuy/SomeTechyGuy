@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SomeTechyGuy
 - 👀 I’m interested in all tech
 - 🌱 I’m currently learning HTML
-- 📫 How to reach me cjhe24@outlook.com
 - ⚡ Fun fact: Alexa is stupid
 
 <!---
