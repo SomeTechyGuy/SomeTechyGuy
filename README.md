@@ -2,7 +2,7 @@
 - 👀 I’m interested in all tech
 - 🌱 I’m currently learning HTML
 - ⚡ Fun fact: Alexa is stupid
-- My website is at cstuff.cz
+- My website is at [cstuff.cz](https://cstuff.cz)
 
 <!---
 SomeTechyGuy/SomeTechyGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
