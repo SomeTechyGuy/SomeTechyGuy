@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SomeTechyGuy
-- 👀 I’m interested in all tech
-- 🌱 I’m currently learning HTML
-- ⚡ Fun fact: Alexa is stupid
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning too much about plasma TVs
+- ⚡ Fun fact: Alexa is stupid and mine can't tell me if a HDD has a neodymium magnet
 - My website is at [cstuff.cz](https://cstuff.cz)
 
 <!---
